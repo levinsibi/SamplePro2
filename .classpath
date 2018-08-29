@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/jars/selenium-server-standalone-2.53.1.jar"/>
+	<classpathentry kind="lib" path="C:/jars/REST-jars/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/jars/REST-jars/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="C:/jars/REST-jars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/jars/REST-jars/groovy-2.4.12.jar"/>
+	<classpathentry kind="lib" path="C:/jars/REST-jars/groovy-json-2.4.12.jar"/>
+	<classpathentry kind="lib" path="C:/jars/REST-jars/groovy-xml-2.4.12.jar"/>
+	<classpathentry kind="lib" path="C:/jars/REST-jars/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/jars/REST-jars/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/jars/REST-jars/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/jars/REST-jars/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/jars/REST-jars/httpmime-4.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/jars/REST-jars/jaxb-api-2.2.12.jar"/>
+	<classpathentry kind="lib" path="C:/jars/REST-jars/json-path-3.1.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/jars/REST-jars/json-path-3.1.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/jars/REST-jars/rest-assured-3.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/jars/REST-jars/rest-assured-3.1.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/jars/REST-jars/rest-assured-3.1.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/jars/REST-jars/rest-assured-common-3.1.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/jars/REST-jars/rest-assured-common-3.1.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/jars/REST-jars/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/jars/REST-jars/xml-path-3.1.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/jars/REST-jars/xml-path-3.1.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/jars/REST-jars/java-json.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -7,14 +7,17 @@ public class CheckGetterSetter {
 
 		
 		System.out.println("Sample getter and setter");
+		
 		GetterAndSetter ob=new GetterAndSetter();
+		
+		
 		ob.setFname("Levin");
 		ob.setLname("Sibi");
 		ob.setAge(21);
-		
 		System.out.println(ob.getFname());
 		System.out.println(ob.getLname());
 		System.out.println(ob.getAge());
+		System.out.println("Finished");
 	}
 
 }

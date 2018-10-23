@@ -5,6 +5,8 @@ public class CheckGetterSetter {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
+		
+		System.out.println("Sample getter and setter");
 		GetterAndSetter ob=new GetterAndSetter();
 		ob.setFname("Levin");
 		ob.setLname("Sibi");

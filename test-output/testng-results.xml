@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="1" total="1" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="4113" started-at="2018-08-20T09:08:08Z" finished-at="2018-08-20T09:08:12Z">
+  <suite name="Default suite" duration-ms="2492" started-at="2018-08-29T06:06:06Z" finished-at="2018-08-29T06:06:09Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="4113" started-at="2018-08-20T09:08:08Z" finished-at="2018-08-20T09:08:12Z">
+    <test name="Default test" duration-ms="2492" started-at="2018-08-29T06:06:06Z" finished-at="2018-08-29T06:06:09Z">
       <class name="Rest.PostRequest">
-        <test-method status="FAIL" signature="RegistrationSuccessful()[pri:0, instance:Rest.PostRequest@1081592]" name="RegistrationSuccessful" duration-ms="4100" started-at="2018-08-20T14:38:08Z" finished-at="2018-08-20T14:38:12Z">
+        <test-method status="FAIL" signature="RegistrationSuccessful()[pri:0, instance:Rest.PostRequest@1081592]" name="RegistrationSuccessful" duration-ms="2478" started-at="2018-08-29T11:36:06Z" finished-at="2018-08-29T11:36:09Z">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[expected [201] but found [400]]]>

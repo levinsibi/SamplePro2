@@ -8,6 +8,7 @@ public class NewTest {
 	public void before()
 	{
 		System.out.println("before test");
+		
 	}
   @Test
   public void f() {

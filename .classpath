@@ -26,5 +26,6 @@
 	<classpathentry kind="lib" path="C:/jars/REST-jars/xml-path-3.1.1-javadoc.jar"/>
 	<classpathentry kind="lib" path="C:/jars/REST-jars/xml-path-3.1.1-sources.jar"/>
 	<classpathentry kind="lib" path="C:/jars/REST-jars/java-json.jar"/>
+	<classpathentry kind="lib" path="C:/jars/ngwebdriver-1.1.4.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

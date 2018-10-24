@@ -11,7 +11,7 @@ public class sql1 {
 
 	public static void main(String[] args) throws SQLException {
 		// TODO Auto-generated method stub
-
+//sqljdbc42 jar is provided
 		String dbusername;
 		String dbpassword;
 		String databaseURLQA = "jdbc:sqlserver://qatcxsql";// server
